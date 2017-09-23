@@ -1,4 +1,4 @@
-# CoWFC
+﻿# CoWFC
 Front- and back-end website for the DWC network server emulator
 
 # Prerequisites
@@ -14,8 +14,7 @@ Front- and back-end website for the DWC network server emulator
 # How to Build
 First, you will need to be running on Ubuntu. Otherwise the [setup script](https://github.com/kyle95wm/cowfc_installer) will not run. Please run the following comments below to get started:
 
-`mkdir /var/www && cd /var/www && wget https://raw.githubusercontent.com/kyle95wm/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`
-# Features
+`mkdir /var/www && cd /var/www && wget https://raw.githubusercontent.com/kyle95wm/cowfc_installer/master/cowfc.sh && chmod +x cowfc.sh && ./cowfc.sh`#Help- Once you've ran cowfc.sh, go through a couple of things then press enter when asked to. Your machine should now restart. Once your machine has open the terminal. Run, `sudo bash` and then run, `cd /var/www` and then run ./cowfc.sh. Then, run through the script.# Features
 - Stats page shows who is online by game/country
 - Admin panel to manage bans, whitelists, and more
 
